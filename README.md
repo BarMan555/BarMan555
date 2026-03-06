@@ -1,18 +1,18 @@
-# Hi there, I'm Boris! 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3h2d3ZubmZhdnBnY2l0YXA5dXpwbDRjNTMyNHZyYjJnaWNmMjV5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hKL8BI8rRNrMRFtAx/giphy.gif" alt="Typing SVG" />
+  </a>
+</p>
+
+<h1 align="center">Hi, I'm Boris Shesterikov</h1>
 
 ### Junior .NET Developer | InfoSec Enthusiast
 
-I am a backend developer with a strong engineering foundation, specializing in building robust REST APIs using **ASP.NET Core**. With a background in UNIX systems administration and currently pursuing a degree in Information Security, I bridge the gap between secure infrastructure and clean, scalable backend architecture. 
+I build robust REST APIs and microservices using **ASP.NET Core**. With a strong engineering foundation (UNIX, networking, InfoSec), I focus on clean, scalable architecture and asynchronous communication.
 
-Currently, I'm deep-diving into microservices, asynchronous communication, and modern architectural patterns (Clean Architecture, DDD, SOLID).
-
----
-
-### 🚀 What I'm doing right now
-- 💼 Working as a Network Implementation Engineer, ensuring secure and routed infrastructure.
-- 🎓 Studying Information Security of Automated Systems (4th year).
-- 🏗️ Building high-performance .NET applications with **gRPC** and **RabbitMQ**.
-- 📚 Reading: *"Dependency Injection in .NET"* by Mark Seemann.
+- 🎓 4th-year student in Information Security.
+- 💼 Network Implementation Engineer.
+- 🏗️ Deep-diving into Clean Architecture, DDD, **gRPC**, and **RabbitMQ**.
 
 ---
 
@@ -23,33 +23,53 @@ Currently, I'm deep-diving into microservices, asynchronous communication, and m
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-37A0EA?style=for-the-badge&logo=nuget&logoColor=white)
 
-**Databases & Message Brokers:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**Databases & Brokers:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-**Architecture & Infrastructure:** ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+**Architecture & Microservices:** ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
+![.NET Aspire](https://img.shields.io/badge/.NET%20Aspire-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Infrastructure, DevOps & Testing:** ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Low-Level & Scripting:**
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Assembly](https://img.shields.io/badge/Assembly-888888?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
 ### 🏆 Highlighted Projects
 
 * 🏥 **Hospital Management System:** An enterprise-level REST API built with Clean Architecture. Features MongoDB integration via EF Core, BackgroundServices, and **gRPC Streaming** for real-time data generation. Orchestrated with .NET Aspire and tested with xUnit.
-* 📦 **AsyncWarehouse:** A robust warehouse management system utilizing **RabbitMQ** for asynchronous microservice interaction. Implements the Table-per-Hierarchy (TPH) pattern in PostgreSQL and utilizes Keyed Services for injecting flexible delivery strategies (Drone, Ship, Truck).
+* 📦 **AsyncWarehouse:** A robust warehouse management system utilizing **RabbitMQ** for asynchronous microservice interaction. Implements the Table-per-Hierarchy (TPH) pattern in PostgreSQL and utilizes Keyed Services for injecting flexible delivery strategies.
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BarMan555&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BarMan555&theme=transparent" alt="GitHub Stats" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=BarMan555&theme=transparent&hide_border=true&card_width=480&card_height=225" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BarMan555&theme=transparent" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BarMan555&theme=transparent" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BarMan555&theme=transparent" alt="Repos per Language" />
 </p>
 
 ---
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/твоя-ссылка)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой-ник)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boris-shesterikov-6078113b1/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/barman_555)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boris20033@gmail.com)
