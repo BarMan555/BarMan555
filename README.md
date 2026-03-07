@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi, I'm Boris Shesterikov</h1>
 
-### Junior .NET Developer | InfoSec Enthusiast
+### .NET Developer | InfoSec Enthusiast
 
 I build robust REST APIs and microservices using **ASP.NET Core**. With a strong engineering foundation (UNIX, networking, InfoSec), I focus on clean, scalable architecture and asynchronous communication.
 
