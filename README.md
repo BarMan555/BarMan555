@@ -46,7 +46,7 @@ I build robust REST APIs and microservices using **ASP.NET Core**. With a strong
 ### 🏆 Highlighted Projects
 
 * 🏥 **Hospital Management System:** An enterprise-level REST API built with Clean Architecture. Features **MongoDB** integration via EF Core, BackgroundServices, and **gRPC Streaming** for real-time data generation. Orchestrated with **.NET Aspire** and tested with xUnit.
-* 📦 **AsyncWarehouse**: An event-driven REST API built on **Clean Architecture** principles. Features asynchronous task processing via **RabbitMQ** and **Background Workers**, polymorphic data storage (TPH) in **PostgreSQL**, and flexible delivery routing using Keyed Services. Fully containerized with **Docker Compose** and tested using xUnit & Moq.
+* 📦 **Warehouse Management System:** An event-driven REST API built on **Clean Architecture** principles. Features asynchronous task processing via **RabbitMQ** and **Background Workers**, polymorphic data storage (TPH) in **PostgreSQL**, and flexible delivery routing using Keyed Services. Fully containerized with **Docker Compose** and tested using xUnit & Moq.
 
 ---
 
