@@ -8,11 +8,11 @@
 
 ### .NET Developer | InfoSec Enthusiast
 
-I build robust REST APIs and microservices using **ASP.NET Core**. With a strong engineering foundation (UNIX, networking, InfoSec), I focus on clean, scalable architecture and asynchronous communication.
+I build robust REST APIs, microservices, and real-time applications using **ASP.NET Core**. With a strong engineering foundation (UNIX, networking, InfoSec), I focus on clean, scalable architecture, asynchronous communication, and complex state synchronization.
 
 - 🎓 4th-year student in Information Security.
 - 💼 Network Implementation Engineer.
-- 🏗️ Deep-diving into Clean Architecture, DDD, **gRPC**, and **RabbitMQ**.
+- 🏗️ Deep-diving into Clean Architecture, DDD, **gRPC**, **RabbitMQ**, and **Real-Time Systems (SignalR)**.
 
 ---
 
@@ -28,7 +28,8 @@ I build robust REST APIs and microservices using **ASP.NET Core**. With a strong
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-**Architecture & Microservices:** ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
+**Architecture & Real-Time:** ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-3A8A3A?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET Aspire](https://img.shields.io/badge/.NET%20Aspire-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 
 **Infrastructure, DevOps & Testing:** ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -45,8 +46,9 @@ I build robust REST APIs and microservices using **ASP.NET Core**. With a strong
 
 ### 🏆 Highlighted Projects
 
-* 🏥 **Hospital Management System:** An enterprise-level REST API built with Clean Architecture. Features **MongoDB** integration via EF Core, BackgroundServices, and **gRPC Streaming** for real-time data generation. Orchestrated with **.NET Aspire** and tested with xUnit.
-* 📦 **Warehouse Management System:** An event-driven REST API built on **Clean Architecture** principles. Features asynchronous task processing via **RabbitMQ** and **Background Workers**, polymorphic data storage (TPH) in **PostgreSQL**, and flexible delivery routing using Keyed Services. Fully containerized with **Docker Compose** and tested using xUnit & Moq.
+* 🛋️ **[SofaStream](ссылка_на_твой_репозиторий) (Active Development):** A real-time synchronized video streaming platform designed for long-distance relationships. Engineered with a **Rich Domain Model (DDD)** and **Clean Architecture**. Implements **CQRS** via MediatR, robust **Domain Events** dispatching, and WebSockets (**SignalR**) to compensate for network latency and ensure pixel-perfect playback synchronization. Stack: C# 14, .NET 10, PostgreSQL.
+* 🏥 **[Hospital Management System](ссылка_на_проект):** An enterprise-level REST API built with Clean Architecture. Features **MongoDB** integration via EF Core, BackgroundServices, and **gRPC Streaming** for real-time data generation. Orchestrated with **.NET Aspire** and tested with xUnit.
+* 📦 **[Warehouse Management System](ссылка_на_проект):** An event-driven REST API built on **Clean Architecture** principles. Features asynchronous task processing via **RabbitMQ** and **Background Workers**, polymorphic data storage (TPH) in **PostgreSQL**, and flexible delivery routing using Keyed Services. Fully containerized with **Docker Compose** and tested using xUnit & Moq.
 
 ---
 
