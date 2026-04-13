@@ -46,9 +46,9 @@ I build robust REST APIs, microservices, and real-time applications using **ASP.
 
 ### 🏆 Highlighted Projects
 
-* 🛋️ **[SofaStream](ссылка_на_твой_репозиторий) (Active Development):** A real-time synchronized video streaming platform designed for long-distance relationships. Engineered with a **Rich Domain Model (DDD)** and **Clean Architecture**. Implements **CQRS** via MediatR, robust **Domain Events** dispatching, and WebSockets (**SignalR**) to compensate for network latency and ensure pixel-perfect playback synchronization. Stack: C# 14, .NET 10, PostgreSQL.
-* 🏥 **[Hospital Management System](ссылка_на_проект):** An enterprise-level REST API built with Clean Architecture. Features **MongoDB** integration via EF Core, BackgroundServices, and **gRPC Streaming** for real-time data generation. Orchestrated with **.NET Aspire** and tested with xUnit.
-* 📦 **[Warehouse Management System](ссылка_на_проект):** An event-driven REST API built on **Clean Architecture** principles. Features asynchronous task processing via **RabbitMQ** and **Background Workers**, polymorphic data storage (TPH) in **PostgreSQL**, and flexible delivery routing using Keyed Services. Fully containerized with **Docker Compose** and tested using xUnit & Moq.
+* 🛋️ **[SofaStream](https://github.com/BarMan555/sofa-stream)(Active Development):** A real-time synchronized video streaming platform designed for long-distance relationships. Engineered with a **Rich Domain Model (DDD)** and **Clean Architecture**. Implements **CQRS** via MediatR, robust **Domain Events** dispatching, and WebSockets (**SignalR**) to compensate for network latency and ensure pixel-perfect playback synchronization. Stack: C# 14, .NET 10, PostgreSQL.
+* 🏥 **[Hospital Management System](https://github.com/BarMan555/hospital-management-system):** An enterprise-level REST API built with Clean Architecture. Features **MongoDB** integration via EF Core, BackgroundServices, and **gRPC Streaming** for real-time data generation. Orchestrated with **.NET Aspire** and tested with xUnit.
+* 📦 **[Warehouse Management System](https://github.com/BarMan555/warehouse-management-system):** An event-driven REST API built on **Clean Architecture** principles. Features asynchronous task processing via **RabbitMQ** and **Background Workers**, polymorphic data storage (TPH) in **PostgreSQL**, and flexible delivery routing using Keyed Services. Fully containerized with **Docker Compose** and tested using xUnit & Moq.
 
 ---
 
